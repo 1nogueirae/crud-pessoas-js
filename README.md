@@ -64,6 +64,9 @@ GitHub Projects.
 > O board público do GitHub Projects documenta cada etapa desse processo,
 > das issues abertas até as entregas concluídas.
 
+## 📄 Especificação Técnica
+O documento de demanda que guiou este projeto está disponível em [`/docs/especificacao_tecnica_novatech.pdf`](./docs/especificacao_tecnica_novatech.pdf).
+
 ---
 
 <!-- As seções abaixo serão preenchidas conforme o projeto avançar -->
